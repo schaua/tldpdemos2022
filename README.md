@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+The start and test scripts are special cases that do not require npm run, just npm
 In the project directory, you can run:
 
 ### `npm start`
